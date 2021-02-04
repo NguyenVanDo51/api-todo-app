@@ -25,4 +25,6 @@ $app = require __DIR__.'/../bootstrap/app.php';
 |
 */
 
+echo "Hello World";
+
 $app->run();
